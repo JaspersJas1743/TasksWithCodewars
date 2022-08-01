@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z7\obj\Debug\net6.0\z7.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z7\obj\Debug\net6.0\z7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z7\obj\Debug\net6.0\z7.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z7\obj\Debug\net6.0\z7.AssemblyInfo.cs
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z7\obj\Debug\net6.0\z7.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z7\bin\Debug\net6.0\z7.exe
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z7\bin\Debug\net6.0\z7.deps.json
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z7\bin\Debug\net6.0\z7.runtimeconfig.json
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z7\bin\Debug\net6.0\z7.dll
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z7\bin\Debug\net6.0\ref\z7.dll
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z7\bin\Debug\net6.0\z7.pdb
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z7\obj\Debug\net6.0\z7.dll
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z7\obj\Debug\net6.0\ref\z7.dll
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z7\obj\Debug\net6.0\z7.pdb
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z7\obj\Debug\net6.0\z7.genruntimeconfig.cache
