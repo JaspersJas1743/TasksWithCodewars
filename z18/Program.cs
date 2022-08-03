@@ -23,7 +23,7 @@ class Parser
 {
     private static List<string> _starts = new List<string>(){"on", "tw", "th", "fo", "fi", "si", "se", "ei", "ni", "te", "el"};
 
-    public static int ParseInt(string s)
+    public static int ParseInt(string? s)
     {
         if (string.IsNullOrEmpty(s)) throw new Exception();
 
