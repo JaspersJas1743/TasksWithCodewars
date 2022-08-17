@@ -105,7 +105,7 @@ namespace z26
         private static string TranspileLambdaExpressionAreNotInsideBrackets(string expression)
         {
             string[] func = expression.Split('{', StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries);
-            string brackets = TranspileCurlyBrackets(func.Last().Replace("}", "")),
+            string  brackets = TranspileCurlyBrackets(func.Last().Replace("}", "")),
                     funcName = func.First().Replace(" ", ""), start = $"{funcName}(";            
             
             if (expression.Contains('('))
@@ -128,12 +128,12 @@ namespace z26
             return roundBrackets.Contains('{') && !roundBrackets.Contains('(') ? string.Empty : (brackets + roundBrackets);
         }
 
-        public static string transpile(string expression)
+        public static string transpile(string exp)
         {
-            if (new string[]{"()", "{}"}.Any(x => x == expression)) return string.Empty;
-            Console.WriteLine($"expression is {expression}");
-            expression = Regex.Replace(expression.Replace("\n", ""), "\\s+", " ");
-            string  oneOrMoreLetter = @"\s*([_a-zA-Z]+\d*|[_a-zA-Z]*\d+)\s*", nullOrMoreLetter = @"\s*[_a-zA-Z]*\d*\s*",
+            if (new string[]{"()", "{}"}.Any(x => x == exp)) return string.Empty;
+            
+            string  expression = Regex.Replace(exp.Replace("\n", ""), "\\s+", " "),
+                    oneOrMoreLetter = @"\s*([_a-zA-Z]+\d*|[_a-zA-Z]*\d+)\s*", nullOrMoreLetter = @"\s*[_a-zA-Z]*\d*\s*",
                     roundBrackets = @$"\s*(\({oneOrMoreLetter}(,{oneOrMoreLetter})*\)|\(\s*\))\s*",
                     curlyBrackets = @$"\s*(\{{({oneOrMoreLetter})(?=((->)?|(,{oneOrMoreLetter})*))((,{oneOrMoreLetter})*)(?=(->))(->)?({nullOrMoreLetter})*\}}|\{{({nullOrMoreLetter})*\}})\s*",
                     simpleExpression = @$"^{oneOrMoreLetter}{roundBrackets}$",
@@ -158,6 +158,7 @@ namespace z26
     internal class Program
     {
         public static bool fromTo(string input, string expected) => Transpiler.transpile(input) == expected;
+        
         public static void Main(string[] args)
         {
             Console.WriteLine($"1. {fromTo ("run(a){as we can}", "run(a,(){as;we;can;})")}");
@@ -189,6 +190,7 @@ namespace z26
             Console.WriteLine($"27. {fromTo ("{a->a}(cde,y,z){x y d -> stuff}", string.Empty)}");
             Console.WriteLine($"28. {fromTo ("{x y d -> stuff}()", string.Empty)}");
             Console.WriteLine($"29. {fromTo ("{a}(cde,y,z){x,y,d jj}", string.Empty)}");
+            Console.WriteLine($"30. {fromTo ("x9x92xb29xub29bx120()!(", string.Empty)}");
         }
     }
 }
