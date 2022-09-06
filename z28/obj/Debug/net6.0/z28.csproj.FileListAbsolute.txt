@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z28\obj\Debug\net6.0\z28.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z28\obj\Debug\net6.0\z28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z28\obj\Debug\net6.0\z28.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z28\obj\Debug\net6.0\z28.AssemblyInfo.cs
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z28\obj\Debug\net6.0\z28.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z28\bin\Debug\net6.0\z28.exe
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z28\bin\Debug\net6.0\z28.deps.json
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z28\bin\Debug\net6.0\z28.runtimeconfig.json
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z28\bin\Debug\net6.0\z28.dll
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z28\bin\Debug\net6.0\ref\z28.dll
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z28\bin\Debug\net6.0\z28.pdb
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z28\obj\Debug\net6.0\z28.dll
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z28\obj\Debug\net6.0\ref\z28.dll
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z28\obj\Debug\net6.0\z28.pdb
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z28\obj\Debug\net6.0\z28.genruntimeconfig.cache
