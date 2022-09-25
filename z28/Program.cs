@@ -72,7 +72,6 @@ namespace z28
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Main started");
             Node n = new Node(
                 new Node(
                     new Node(
