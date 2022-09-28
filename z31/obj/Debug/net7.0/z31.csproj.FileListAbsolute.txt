@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z31\bin\Debug\net7.0\z31.exe
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z31\bin\Debug\net7.0\z31.deps.json
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z31\bin\Debug\net7.0\z31.runtimeconfig.json
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z31\bin\Debug\net7.0\z31.dll
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z31\bin\Debug\net7.0\z31.pdb
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z31\obj\Debug\net7.0\z31.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z31\obj\Debug\net7.0\z31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z31\obj\Debug\net7.0\z31.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z31\obj\Debug\net7.0\z31.AssemblyInfo.cs
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z31\obj\Debug\net7.0\z31.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z31\obj\Debug\net7.0\z31.dll
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z31\obj\Debug\net7.0\refint\z31.dll
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z31\obj\Debug\net7.0\z31.pdb
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z31\obj\Debug\net7.0\z31.genruntimeconfig.cache
+C:\Users\user\Desktop\хуйня\c#\Задания\Codewars\z31\obj\Debug\net7.0\ref\z31.dll
