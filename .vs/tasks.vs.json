@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "задача-z32",
+      "appliesTo": "z32/",
+      "type": "launch"
+    }
+  ]
+}
